@@ -35,6 +35,6 @@ Os atributos de 1 a 9 podem assumir um dos seguintes resultados :
   * x para os quadrados preenchidos pelo jogador X
   * o para os quadrados preenchidos pelo jogador O
   * b para os quadrados não preenchidos
-  * Enquanto a o atributo 10, pode assumir positivo e negativo.
+  * Enquanto o atributo 10, pode assumir positivo e negativo.
 
 **Autor:** David W. Aha - [UCI](http://archive.ics.uci.edu/ml/citation_policy.html)
