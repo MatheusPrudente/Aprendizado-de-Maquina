@@ -1,8 +1,10 @@
-# Aprendizado-de-Maquina
+## :ledger: prendizado-de-Maquina
 
-Esse repositório contém os exercícios aplicados pelo professor Rodolfo Miranda Pereira na matéria de Aprendizagem de Máquina da IFPR - Campus Pinhais.
+Esse repositório contém os exercícios aplicados na matéria de Aprendizagem de Máquina da IFPR- Campus Pinhais.
 
-## Banco de dados de fim do jogo da velha
+## :books: Exercício
+
+### Base de dados
 
 **Link :** https://www.openml.org/d/50
 
