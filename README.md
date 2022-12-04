@@ -1,4 +1,4 @@
-## :ledger: prendizado-de-Maquina
+## :ledger: Aprendizado-de-Maquina
 
 Esse repositório contém os exercícios aplicados na matéria de Aprendizagem de Máquina da IFPR- Campus Pinhais.
 
